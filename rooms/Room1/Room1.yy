@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"bombsarethekey",
-    "path":"bombsarethekey.yyp",
+    "name":"rooms",
+    "path":"folders/rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
