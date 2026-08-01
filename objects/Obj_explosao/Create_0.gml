@@ -1,1 +1,1 @@
-	alarm[0] = 30 //dps de meio segundo e apos a animacao ter tocado a explosao some
+	alarm[0] = 60 //dps de meio segundo e apos a animacao ter tocado a explosao some

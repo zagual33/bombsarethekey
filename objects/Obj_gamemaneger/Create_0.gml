@@ -17,6 +17,7 @@ function explodir(bomba)//quando a bomba explode
 		//gerar instancia explosao
 		//sumir
 			
+			
 			instance_create_layer(bomba.x,bomba.y,"instances",Obj_explosao)
 			instance_destroy(bomba)
 			
