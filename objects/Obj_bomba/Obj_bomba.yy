@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_bomba",
+  "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Obj_bomba",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_player",
-    "path":"sprites/Spr_player/Spr_player.yy",
+    "name":"Spr_bomba",
+    "path":"sprites/Spr_bomba/Spr_bomba.yy",
   },
   "spriteMaskId":null,
   "visible":true,

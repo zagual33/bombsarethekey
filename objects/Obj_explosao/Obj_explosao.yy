@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_explosao",
+  "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Obj_explosao",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_player",
-    "path":"sprites/Spr_player/Spr_player.yy",
+    "name":"Spr_explosao",
+    "path":"sprites/Spr_explosao/Spr_explosao.yy",
   },
   "spriteMaskId":null,
   "visible":true,
