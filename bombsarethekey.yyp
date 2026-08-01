@@ -28,6 +28,7 @@
     {"id":{"name":"Obj_bomba","path":"objects/Obj_bomba/Obj_bomba.yy",},},
     {"id":{"name":"Obj_explosao","path":"objects/Obj_explosao/Obj_explosao.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Spr_bomba","path":"sprites/Spr_bomba/Spr_bomba.yy",},},
     {"id":{"name":"Spr_explosao","path":"sprites/Spr_explosao/Spr_explosao.yy",},},
