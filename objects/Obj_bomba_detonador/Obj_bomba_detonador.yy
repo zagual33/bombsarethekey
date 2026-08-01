@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
-  "eventList":[],
+  "%Name":"Obj_bomba_detonador",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object4",
+  "name":"Obj_bomba_detonador",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_bomba_detonador",
+    "path":"sprites/Spr_bomba_detonador/Spr_bomba_detonador.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

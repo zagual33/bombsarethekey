@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Spr_explosao",
+  "%Name":"Spr_bomba_detonador",
   "bboxMode":0,
-  "bbox_bottom":251,
+  "bbox_bottom":63,
   "bbox_left":0,
-  "bbox_right":251,
+  "bbox_right":63,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"0069e70a-15e0-4f80-b198-f8b5043cf9cf","name":"0069e70a-15e0-4f80-b198-f8b5043cf9cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a40003ad-ac49-4619-8818-f093977af656","name":"a40003ad-ac49-4619-8818-f093977af656","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":252,
+  "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c9b9248e-a51d-4acd-bf1d-32df930312ac","blendMode":0,"displayName":"default","isLocked":false,"name":"c9b9248e-a51d-4acd-bf1d-32df930312ac","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"048058a4-64d5-4ef1-a6cc-53ba3a08a52e","blendMode":0,"displayName":"default","isLocked":false,"name":"048058a4-64d5-4ef1-a6cc-53ba3a08a52e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Spr_explosao",
+  "name":"Spr_bomba_detonador",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Spr_explosao",
+    "%Name":"Spr_bomba_detonador",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Spr_explosao",
+    "name":"Spr_bomba_detonador",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0069e70a-15e0-4f80-b198-f8b5043cf9cf","path":"sprites/Spr_explosao/Spr_explosao.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"835f89ea-7b1f-4cf6-bcdc-60d4deba50d6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a40003ad-ac49-4619-8818-f093977af656","path":"sprites/Spr_bomba_detonador/Spr_bomba_detonador.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c6ebbcdb-602b-4692-89b5-fab85970acb5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":126,
-    "yorigin":126,
+    "xorigin":32,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":252,
+  "width":64,
 }

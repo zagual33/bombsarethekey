@@ -39,8 +39,8 @@ keyboard_check(ord("W")) or
 keyboard_check(ord("S")) or
 keyboard_check(ord("D"))
 
-movex = lerp(movex,dir_x * velmax, 0.1)
-movey = lerp(movey,dir_y * velmax, 0.1)
+movex = lerp(movex,dir_x * velmax, 0.2)
+movey = lerp(movey,dir_y * velmax, 0.2)
 
 
 x += movex
