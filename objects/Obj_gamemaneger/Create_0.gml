@@ -1,3 +1,4 @@
+randomise()
 function houve_explosao(alvo) //verifica se ouve explosao perto
 {
 		
@@ -40,4 +41,12 @@ function explosao()
 	//no fim da animacao ela some	
 	
 
+}
+
+function venda_cobre() //d
+{
+
+	global.money += global.preco_cobre * global.qtd_cobre
+	global.qtd_cobre = 0
+	
 }

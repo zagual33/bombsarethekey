@@ -1,0 +1,1 @@
+Obj_gamemaneger.venda_cobre()
