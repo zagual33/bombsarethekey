@@ -5,12 +5,15 @@ function houve_explosao(alvo) //verifica se ouve explosao perto
 		
 }
 
-function quebrar_minerio(minerio)
+function quebrar_minerio(minerio,drop)
 {
+		if (minerio.estado == "inteiro")
+		{
 		minerio.image_index = 1//muda a sprite
-		
+		instance_create_layer(minerio.x,minerio.y,"instances",drop)
 		// dropa os minerios
-
+		minerio.estado = "quebrado"
+		}
 }
 
 function explodir(bomba)//quando a bomba explode

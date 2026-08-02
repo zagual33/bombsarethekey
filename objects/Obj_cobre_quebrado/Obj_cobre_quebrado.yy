@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_minerio_cobre",
+  "%Name":"Obj_cobre_quebrado",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_minerio_cobre",
+  "name":"Obj_cobre_quebrado",
   "overriddenProperties":[],
   "parent":{
     "name":"minerios",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_minerio",
-    "path":"sprites/Spr_minerio/Spr_minerio.yy",
+    "name":"Spr_minerio_drop",
+    "path":"sprites/Spr_minerio_drop/Spr_minerio_drop.yy",
   },
   "spriteMaskId":null,
   "visible":true,
