@@ -5,9 +5,10 @@ function houve_explosao(alvo) //verifica se ouve explosao perto
 		
 }
 
-function quebrar_minerio()
+function quebrar_minerio(minerio)
 {
-		//muda a sprite
+		minerio.image_index = 1//muda a sprite
+		
 		// dropa os minerios
 
 }

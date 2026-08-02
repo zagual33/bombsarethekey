@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_bomba",
+  "%Name":"Obj_minerio_cobre",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_bomba",
+  "name":"Obj_minerio_cobre",
   "overriddenProperties":[],
   "parent":{
-    "name":"bombas",
-    "path":"folders/objects/bombas.yy",
+    "name":"minerios",
+    "path":"folders/objects/minerios.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_bomba",
-    "path":"sprites/Spr_bomba/Spr_bomba.yy",
+    "name":"Spr_minerio",
+    "path":"sprites/Spr_minerio/Spr_minerio.yy",
   },
   "spriteMaskId":null,
   "visible":true,
