@@ -9,10 +9,15 @@ function quebrar_minerio(minerio,drop)
 {
 		if (minerio.estado == "inteiro")
 		{
+			var _num_drops = 0
+			
+			for (_num_drops = 0; _num_drops < choose(1,2,3,4,5); _num_drops++)
+			{
 		minerio.image_index = 1//muda a sprite
 		instance_create_layer(minerio.x,minerio.y,"instances",drop)
 		// dropa os minerios
 		minerio.estado = "quebrado"
+			}
 		}
 }
 
