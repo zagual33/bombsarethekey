@@ -1,24 +1,30 @@
+
 var dir_x  = 0;
 var dir_y = 0;
 
 if (keyboard_check(ord("A")))
 {
 	dir_x = -1
+
+
 }
 
 if (keyboard_check(ord("W")))
 {
 	dir_y = -1
+
 }
 
 if (keyboard_check(ord("S")))
 {
 	dir_y = 1
+
 }
 
 if (keyboard_check(ord("D")))
 {
 	dir_x = 1
+
 }
 
 //normalizando
@@ -38,6 +44,17 @@ var run = keyboard_check(ord("A")) or
 keyboard_check(ord("W")) or
 keyboard_check(ord("S")) or
 keyboard_check(ord("D"))
+
+//se ele estiver andando a sprite roda os frames
+if run = 1
+{
+	image_speed = 1
+}
+else 
+{
+image_speed = 0 
+image_index = 0
+}
 
 movex = lerp(movex,dir_x * velmax, 0.2)
 movey = lerp(movey,dir_y * velmax, 0.2)
@@ -62,6 +79,3 @@ x += MoveX
 y += MoveY
 
 */
-
-
-

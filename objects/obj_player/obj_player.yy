@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_player",
-    "path":"sprites/Spr_player/Spr_player.yy",
+    "name":"Spr_player_frente",
+    "path":"sprites/Spr_player_frente/Spr_player_frente.yy",
   },
   "spriteMaskId":null,
   "visible":true,
