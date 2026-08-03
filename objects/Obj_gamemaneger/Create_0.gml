@@ -22,7 +22,7 @@ function quebrar_minerio(minerio,drop)
 		}
 }
 
-		tam_explosao = 1
+		
 
 function explodir(bomba)//quando a bomba explode
 {

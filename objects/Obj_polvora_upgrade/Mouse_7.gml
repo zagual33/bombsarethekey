@@ -1,8 +1,8 @@
-if (global.money >= preco)
+if (global.money >= global.explosao_forca_preco)
 {
-	global.money -=preco
-	Obj_gamemaneger.tam_explosao += 0.1
-	preco += 100
+	global.money -=global.explosao_forca_preco
+	global.explosao_forca += 0.1
+	global.explosao_forca_preco += 100
 	
 	
 	

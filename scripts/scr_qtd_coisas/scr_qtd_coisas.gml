@@ -9,7 +9,9 @@ global.preco_cobre = 20
 
 global.money = 1000
 
-
+//valor guardado aqui para quando mudar a room n reiniciar
+global.explosao_forca = 1
+global.explosao_forca_preco = 100
 
 //verificacao se megabomba foi comprada
 global.megabomba_buy = 0
