@@ -1,15 +1,5 @@
-if (place_meeting(x,y,obj_player))
-{
-	instance_create_layer(x-25,y-25,"hud", Obj_interacao)	
-	
-	
-	if (keyboard_check_released(ord("E")))
-	{
 
-	}
-}
-else
+if (!place_free(x,y))
 {
-	instance_destroy(Obj_interacao)	
-	
+	instance_create_layer(x-50,y-50, "hud",Obj_interacao)
 }
