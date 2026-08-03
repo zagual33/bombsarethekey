@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_gamemaneger",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_solido",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_gamemaneger",
+  "name":"Obj_solido",
   "overriddenProperties":[],
   "parent":{
     "name":"jogo",
@@ -28,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Spr_player_frente",
-    "path":"sprites/Spr_player_frente/Spr_player_frente.yy",
+    "name":"Spr_solido",
+    "path":"sprites/Spr_solido/Spr_solido.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

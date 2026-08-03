@@ -59,9 +59,10 @@ image_index = 0
 movex = lerp(movex,dir_x * velmax, 0.2)
 movey = lerp(movey,dir_y * velmax, 0.2)
 
+move_and_collide(movex,movey,Obj_solido)
 
-x += movex
-y += movey
+//x += movex
+//y += movey
 
 
 
