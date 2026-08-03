@@ -54,3 +54,10 @@ function venda_cobre() //d
 	global.qtd_cobre = 0
 	
 }
+
+
+//megabomba pra passar de fase
+
+
+
+

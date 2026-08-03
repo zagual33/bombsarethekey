@@ -27,6 +27,7 @@
     {"name":"inst_18FB0B1D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_42CC97B4","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7B2A310F","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_625310F1","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -42,6 +43,7 @@
         {"$GMRInstance":"v4","%Name":"inst_19196A99","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19196A99","objectId":{"name":"Obj_gamemaneger","path":"objects/Obj_gamemaneger/Obj_gamemaneger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":-64.0,},
         {"$GMRInstance":"v4","%Name":"inst_5DF241EC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5DF241EC","objectId":{"name":"hud_qtd_cobre","path":"objects/hud_qtd_cobre/hud_qtd_cobre.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":3.0,"x":832.0,"y":64.0,},
         {"$GMRInstance":"v4","%Name":"inst_20F78CD6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_20F78CD6","objectId":{"name":"hud_qtd_bomba","path":"objects/hud_qtd_bomba/hud_qtd_bomba.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":3.0,"x":1024.0,"y":64.0,},
+        {"$GMRInstance":"v4","%Name":"inst_625310F1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_625310F1","objectId":{"name":"Obj_next_fase","path":"objects/Obj_next_fase/Obj_next_fase.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":96.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_minerios","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_19FCCBF0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19FCCBF0","objectId":{"name":"Obj_minerio_cobre","path":"objects/Obj_minerio_cobre/Obj_minerio_cobre.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":192.0,},
