@@ -1,7 +1,7 @@
 if (global.money >= preco)
 {
 	global.money -=preco
-	Obj_explosao_level_0.tamanho += 0.5
+	Obj_gamemaneger.level_bomba ++
 	preco += 100
 	
 	
