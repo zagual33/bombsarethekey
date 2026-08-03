@@ -7,6 +7,6 @@ global.qtd_bomba = 10
 global.qtd_cobre = 0
 global.preco_cobre = 20
 
-global.money = 0
+global.money = 1000
 
 

@@ -5,20 +5,20 @@ var dir_y = 0;
 if (keyboard_check(ord("A")))
 {
 	dir_x = -1
-
+	sprite_index = spr_player_lado
 
 }
 
 if (keyboard_check(ord("W")))
 {
 	dir_y = -1
-
+	sprite_index = Spr_player_cima
 }
 
 if (keyboard_check(ord("S")))
 {
 	dir_y = 1
-
+	sprite_index = Spr_player_frente
 }
 
 if (keyboard_check(ord("D")))

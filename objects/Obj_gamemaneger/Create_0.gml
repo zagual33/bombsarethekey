@@ -2,7 +2,7 @@ randomise()
 function houve_explosao(alvo) //verifica se ouve explosao perto
 {
 		
-		return place_meeting(alvo.x,alvo.y, Obj_explosao)	//retorna true or false
+		return place_meeting(alvo.x,alvo.y, Obj_explosao_level_0)	//retorna true or false
 		
 }
 
@@ -28,7 +28,7 @@ function explodir(bomba)//quando a bomba explode
 		//sumir
 			
 			
-			instance_create_layer(bomba.x,bomba.y,"instances",Obj_explosao)
+			instance_create_layer(bomba.x,bomba.y,"instances",Obj_explosao_level_0)
 			instance_destroy(bomba)
 			
 }
