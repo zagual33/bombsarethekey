@@ -6,6 +6,7 @@ if (keyboard_check(ord("A")))
 {
 	dir_x = -1
 	sprite_index = spr_player_lado
+	image_xscale = 3
 
 }
 
@@ -13,17 +14,20 @@ if (keyboard_check(ord("W")))
 {
 	dir_y = -1
 	sprite_index = Spr_player_cima
+	image_xscale = 3
 }
 
 if (keyboard_check(ord("S")))
 {
 	dir_y = 1
 	sprite_index = Spr_player_frente
+	image_xscale = 3
 }
 
 if (keyboard_check(ord("D")))
 {
 	dir_x = 1
+	image_xscale = -3
 
 }
 
