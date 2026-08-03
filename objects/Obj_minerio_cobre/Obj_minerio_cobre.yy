@@ -29,7 +29,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Spr_minerio",
     "path":"sprites/Spr_minerio/Spr_minerio.yy",
