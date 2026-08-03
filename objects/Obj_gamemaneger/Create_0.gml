@@ -22,11 +22,13 @@ function quebrar_minerio(minerio,drop)
 		}
 }
 
+level_bomba = 0
+
 function explodir(bomba)//quando a bomba explode
 {
 		//gerar instancia explosao
 		//sumir
-			
+			case
 			
 			instance_create_layer(bomba.x,bomba.y,"instances",Obj_explosao_level_0)
 			instance_destroy(bomba)
