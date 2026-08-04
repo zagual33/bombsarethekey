@@ -1,6 +1,6 @@
 if (place_meeting(x,y,obj_player))
 {
-	instance_create_layer(x-100,y-100,"hud", Obj_interacao)	
+	instance_create_layer(x-100,y-100,"Instances_camada_2", Obj_interacao)	
 	//estado = "int"
 	if (keyboard_check_released(ord("E")))
 	{

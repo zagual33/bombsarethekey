@@ -1,10 +1,11 @@
+draw_self()
 draw_set_font(Fnd_hud)
 
-draw_set_colour(c_black)
+draw_set_colour(c_white)
 
 draw_text_ext(
-x+25,
-y-30,
+x+73,
+y-15,
 "Clique para vender quaisquer entulhos aqui",
 24,
 150
