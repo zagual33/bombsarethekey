@@ -1,1 +1,3 @@
+
+
 draw_text(x,y,global.money)
