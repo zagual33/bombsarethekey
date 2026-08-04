@@ -76,6 +76,7 @@
     {"id":{"name":"Spr_interagir","path":"sprites/Spr_interagir/Spr_interagir.yy",},},
     {"id":{"name":"Spr_megabomba","path":"sprites/Spr_megabomba/Spr_megabomba.yy",},},
     {"id":{"name":"Spr_minerio_drop","path":"sprites/Spr_minerio_drop/Spr_minerio_drop.yy",},},
+    {"id":{"name":"spr_minerio_explodido","path":"sprites/spr_minerio_explodido/spr_minerio_explodido.yy",},},
     {"id":{"name":"Spr_minerio","path":"sprites/Spr_minerio/Spr_minerio.yy",},},
     {"id":{"name":"Spr_next_fase","path":"sprites/Spr_next_fase/Spr_next_fase.yy",},},
     {"id":{"name":"Spr_placa_letras","path":"sprites/Spr_placa_letras/Spr_placa_letras.yy",},},
