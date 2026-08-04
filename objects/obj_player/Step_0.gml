@@ -27,6 +27,7 @@ if (keyboard_check(ord("S")))
 if (keyboard_check(ord("D")))
 {
 	dir_x = 1
+	sprite_index = spr_player_lado
 	image_xscale = -3
 
 }
