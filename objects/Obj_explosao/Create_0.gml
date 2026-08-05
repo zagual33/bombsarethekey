@@ -1,4 +1,4 @@
-	alarm[0] = 30 //dps de meio segundo e apos a animacao ter tocado a explosao some
+	alarm[0] = game_get_speed(gamespeed_fps) / 2 //dps de meio segundo e apos a animacao ter tocado a explosao some
 	
 	image_alpha = 0.6
 	
