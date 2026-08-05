@@ -86,6 +86,7 @@ y += MoveY
 
 */
 
+if global.qtd_bomba <= 0 exit;
 
 if (keyboard_check_pressed(vk_space))
 {
