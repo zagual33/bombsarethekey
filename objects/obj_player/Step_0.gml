@@ -85,3 +85,27 @@ x += MoveX
 y += MoveY
 
 */
+
+
+if (mouse_check_button_pressed(mb_left))
+{
+	
+	instance_create_layer(x,y,"instances",Obj_bomba_fantasma)
+	
+}
+if(mouse_check_button_released(mb_left))
+{
+	if (global.qtd_bomba > 0)
+{
+	instance_create_layer(x,y,"Instances_camada_2", Obj_bomba)
+	global.qtd_bomba --	
+	instance_destroy(Obj_bomba_fantasma)
+	
+	}
+	
+}
+
+
+
+
+
