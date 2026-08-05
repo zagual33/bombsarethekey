@@ -87,13 +87,13 @@ y += MoveY
 */
 
 
-if (mouse_check_button_pressed(mb_left))
+if (keyboard_check_pressed(vk_space))
 {
 	
 	instance_create_layer(x,y,"instances",Obj_bomba_fantasma)
 	
 }
-if(mouse_check_button_released(mb_left))
+if(keyboard_check_released(vk_space))
 {
 	if (global.qtd_bomba > 0)
 {
