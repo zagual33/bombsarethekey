@@ -22,8 +22,8 @@ Obj_venda.y =  centro_camera_y + 200;
 Obj_polvora_upgrade.x = centro_camera_x - 200;
 Obj_polvora_upgrade.y = centro_camera_y + 100;
 
-Obj_megabomba.x =  centro_camera_x + 230;
-Obj_megabomba.y = centro_camera_y - 50;
+Obj_megabomba_compra.x =  centro_camera_x + 230;
+Obj_megabomba_compra.y = centro_camera_y - 50;
 
 
 if (sumir_menu = 1)
@@ -32,7 +32,7 @@ if (sumir_menu = 1)
 	instance_destroy(Obj_compra_bomba)
 	instance_destroy(Obj_venda)
 	instance_destroy(Obj_polvora_upgrade)
-	instance_destroy(Obj_megabomba)
+	instance_destroy(Obj_megabomba_compra)
 	obj_player.velmax = 5
 }
 

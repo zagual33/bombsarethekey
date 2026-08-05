@@ -4,8 +4,21 @@ function scr_qtd_coisas(){
 
 global.qtd_bomba = 100
 
+
+//miberios e precso
 global.qtd_cobre = 0
 global.preco_cobre = 20
+
+global.qtd_ferro = 0
+global.preco_ferro = 35
+
+global.qtd_ouro = 0
+global.preco_ouro = 50
+
+global.qtd_malaquita = 0
+global.preco_malaquita = 75
+
+
 
 global.money = 1000
 

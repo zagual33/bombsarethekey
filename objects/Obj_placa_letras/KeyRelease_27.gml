@@ -1,1 +1,1 @@
-em_tela = 0
+sumir_menu = 1

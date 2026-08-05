@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_minerio",
-    "path":"sprites/Spr_minerio/Spr_minerio.yy",
+    "name":"Spr_cobre",
+    "path":"sprites/Spr_cobre/Spr_cobre.yy",
   },
   "spriteMaskId":null,
   "visible":true,

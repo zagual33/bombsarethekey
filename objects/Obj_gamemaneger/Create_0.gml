@@ -55,6 +55,29 @@ function venda_cobre() //d
 	
 }
 
+function venda_ferro() //d
+{
+
+	global.money += global.preco_ferro * global.qtd_ferro
+	global.qtd_ferro = 0
+	
+}
+
+function venda_ouro() //d
+{
+
+	global.money += global.preco_ouro * global.qtd_ouro
+	global.qtd_ouro = 0
+	
+}
+
+function venda_malaquita() //d
+{
+
+	global.money += global.preco_malaquita * global.qtd_malaquita
+	global.qtd_malaquita = 0
+	
+}
 
 //megabomba pra passar de fase
 

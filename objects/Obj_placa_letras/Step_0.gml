@@ -13,15 +13,11 @@ var centro_camera_y = camera_y + camera_h / 2;
 x = centro_camera_x;
 y = centro_camera_y;
 
-if (em_tela)
+if (sumir_menu)
 {
-	obj_player.velmax = 0
 	
-	
-}
-else
-{
-instance_destroy()
+	instance_destroy()
 
 obj_player.velmax = 5
+	
 }

@@ -31,7 +31,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"Spr_player_frente",
     "path":"sprites/Spr_player_frente/Spr_player_frente.yy",
