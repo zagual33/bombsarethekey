@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_ouro",
-    "path":"sprites/Spr_ouro/Spr_ouro.yy",
+    "name":"Spr_malaquita",
+    "path":"sprites/Spr_malaquita/Spr_malaquita.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_ferro_drop",
-    "path":"sprites/Spr_ferro_drop/Spr_ferro_drop.yy",
+    "name":"Spr_malaquita_drop",
+    "path":"sprites/Spr_malaquita_drop/Spr_malaquita_drop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"172aa531-1bcc-4e07-a1fc-f6d8b44c5a8c","name":"172aa531-1bcc-4e07-a1fc-f6d8b44c5a8c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f14fabba-c026-4201-b1b0-714a84f92961","name":"f14fabba-c026-4201-b1b0-714a84f92961","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":12,
+  "height":22,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1f633bfd-0dc3-4615-9f76-0e89ce8bc211","blendMode":0,"displayName":"default","isLocked":false,"name":"1f633bfd-0dc3-4615-9f76-0e89ce8bc211","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e6744228-55d6-4105-befd-d8bf54d5f30a","blendMode":0,"displayName":"default","isLocked":false,"name":"e6744228-55d6-4105-befd-d8bf54d5f30a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Spr_ferro_drop",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"minerios",
     "path":"folders/sprites/minerios.yy",
@@ -69,13 +69,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"172aa531-1bcc-4e07-a1fc-f6d8b44c5a8c","path":"sprites/Spr_ferro_drop/Spr_ferro_drop.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0d6ac760-c636-422e-bf1c-39dce6c628f2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f14fabba-c026-4201-b1b0-714a84f92961","path":"sprites/Spr_ferro_drop/Spr_ferro_drop.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"856605bb-0f7f-4c1a-b61c-7dabfce7dd44","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":7,
+    "xorigin":8,
     "yorigin":6,
   },
   "swatchColours":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":14,
+  "width":16,
 }
