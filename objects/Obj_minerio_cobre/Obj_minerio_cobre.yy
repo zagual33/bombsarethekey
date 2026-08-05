@@ -30,7 +30,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"Spr_cobre",
     "path":"sprites/Spr_cobre/Spr_cobre.yy",
