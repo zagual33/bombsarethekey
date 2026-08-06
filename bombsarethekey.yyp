@@ -67,7 +67,6 @@
     {"id":{"name":"Obj_money","path":"objects/Obj_money/Obj_money.yy",},},
     {"id":{"name":"Obj_next_fase","path":"objects/Obj_next_fase/Obj_next_fase.yy",},},
     {"id":{"name":"Obj_ouro_quebrado","path":"objects/Obj_ouro_quebrado/Obj_ouro_quebrado.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"Obj_placa_letras1","path":"objects/Obj_placa_letras1/Obj_placa_letras1.yy",},},
     {"id":{"name":"Obj_placa_letras2","path":"objects/Obj_placa_letras2/Obj_placa_letras2.yy",},},
     {"id":{"name":"Obj_placa_letras3","path":"objects/Obj_placa_letras3/Obj_placa_letras3.yy",},},
@@ -78,11 +77,6 @@
     {"id":{"name":"Obj_placa_tutorial3","path":"objects/Obj_placa_tutorial3/Obj_placa_tutorial3.yy",},},
     {"id":{"name":"Obj_placa_tutorial4","path":"objects/Obj_placa_tutorial4/Obj_placa_tutorial4.yy",},},
     {"id":{"name":"Obj_placa_tutorial5","path":"objects/Obj_placa_tutorial5/Obj_placa_tutorial5.yy",},},
-=======
-    {"id":{"name":"obj_pedra","path":"objects/obj_pedra/obj_pedra.yy",},},
-    {"id":{"name":"Obj_placa_letras","path":"objects/Obj_placa_letras/Obj_placa_letras.yy",},},
-    {"id":{"name":"Obj_placa_tutorial","path":"objects/Obj_placa_tutorial/Obj_placa_tutorial.yy",},},
->>>>>>> b34119cab0fdd859137af980632442faa68c5d14
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Obj_polvora_upgrade","path":"objects/Obj_polvora_upgrade/Obj_polvora_upgrade.yy",},},
     {"id":{"name":"Obj_solido","path":"objects/Obj_solido/Obj_solido.yy",},},
@@ -120,7 +114,6 @@
     {"id":{"name":"spr_ouro_azul","path":"sprites/spr_ouro_azul/spr_ouro_azul.yy",},},
     {"id":{"name":"Spr_ouro_drop","path":"sprites/Spr_ouro_drop/Spr_ouro_drop.yy",},},
     {"id":{"name":"Spr_ouro","path":"sprites/Spr_ouro/Spr_ouro.yy",},},
-    {"id":{"name":"spr_pedra","path":"sprites/spr_pedra/spr_pedra.yy",},},
     {"id":{"name":"Spr_placa_letras","path":"sprites/Spr_placa_letras/Spr_placa_letras.yy",},},
     {"id":{"name":"Spr_placa_tutorial","path":"sprites/Spr_placa_tutorial/Spr_placa_tutorial.yy",},},
     {"id":{"name":"Spr_player_cima","path":"sprites/Spr_player_cima/Spr_player_cima.yy",},},
