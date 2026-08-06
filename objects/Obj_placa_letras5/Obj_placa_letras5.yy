@@ -33,7 +33,7 @@
     {"$GMObjectProperty":"v2","%Name":"tex_tu_2","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"A explosao de uma bomba, ativa outra bomba, faca um grande cabuum e seja feliz!!","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"tex_tu3","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"use o detonador para explodir a bomba demarcada ","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"tex_tu_4","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_4","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Venda os minerios obtidos para conseguir dinheiro e avancar para a proxima fase !!!","varType":2,},
-    {"$GMObjectProperty":"v2","%Name":"tex_tu_5","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_5","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Use uma bomba grande o suficiente para avancar por este caminho, e lembre-se, não va fundo demais","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"tex_tu_5","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_5","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Use uma bomba grande o suficiente para avancar por este caminho, e lembre-se, nao va fundo demais !","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
