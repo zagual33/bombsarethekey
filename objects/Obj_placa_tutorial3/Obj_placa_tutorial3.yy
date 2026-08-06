@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_placa_tutorial",
+  "%Name":"Obj_placa_tutorial3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,11 +8,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_placa_tutorial",
+  "name":"Obj_placa_tutorial3",
   "overriddenProperties":[],
   "parent":{
     "name":"tutorial",
-    "path":"folders/objects/tutorial.yy",
+    "path":"folders/objects/placas/tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"textro1","filters":[],"listItems":[],"multiselect":false,"name":"textro1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"text_tut_1","filters":[],"listItems":[],"multiselect":false,"name":"text_tut_1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"SAPCE","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"text_tut_2","filters":[],"listItems":[],"multiselect":false,"name":"text_tut_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Bomba","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

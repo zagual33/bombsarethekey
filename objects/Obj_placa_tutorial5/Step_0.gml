@@ -6,7 +6,7 @@ if (place_meeting(x,y,obj_player))
 	{
 	//criar instancias do menu	
 	//show_message("interagiu")
-	instance_create_layer(x,y,"hud",Obj_placa_letras)
+	instance_create_layer(x,y,"hud",Obj_placa_letras5)
 		obj_player.velmax = 0
 	}
 }

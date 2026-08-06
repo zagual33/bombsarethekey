@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_placa_letras",
+  "%Name":"Obj_placa_letras1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,11 +8,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_placa_letras",
+  "name":"Obj_placa_letras1",
   "overriddenProperties":[],
   "parent":{
     "name":"tutorial",
-    "path":"folders/objects/tutorial.yy",
+    "path":"folders/objects/placas/tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,7 +28,10 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"tex_tu_1","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"SPACE posiciona as bombas, a area ao redor demarca seu raio de explosao","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"tex_tu_2","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"A explosao de uma bomba, ativa outra bomba, faca um grande cabuum e seja feliz!!","varType":2,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
