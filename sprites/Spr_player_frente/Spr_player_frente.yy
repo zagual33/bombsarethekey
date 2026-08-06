@@ -1,7 +1,7 @@
 {
   "$GMSprite":"v2",
   "%Name":"Spr_player_frente",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":43,
   "bbox_left":21,
   "bbox_right":39,

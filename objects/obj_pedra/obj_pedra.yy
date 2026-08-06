@@ -1,14 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_minerio_malaquita",
+  "%Name":"obj_pedra",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_minerio_malaquita",
+  "name":"obj_pedra",
   "overriddenProperties":[],
   "parent":{
     "name":"minerios",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_malaquita",
-    "path":"sprites/Spr_malaquita/Spr_malaquita.yy",
+    "name":"spr_pedra",
+    "path":"sprites/spr_pedra/spr_pedra.yy",
   },
   "spriteMaskId":null,
   "visible":true,
