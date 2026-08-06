@@ -1,1 +1,0 @@
-Obj_gamemaneger.explodir(id)

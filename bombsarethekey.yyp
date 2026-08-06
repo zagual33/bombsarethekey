@@ -52,6 +52,7 @@
     {"id":{"name":"Obj_comerciante","path":"objects/Obj_comerciante/Obj_comerciante.yy",},},
     {"id":{"name":"Obj_compra_bomba","path":"objects/Obj_compra_bomba/Obj_compra_bomba.yy",},},
     {"id":{"name":"Obj_cutcene_teste","path":"objects/Obj_cutcene_teste/Obj_cutcene_teste.yy",},},
+    {"id":{"name":"Obj_detonador","path":"objects/Obj_detonador/Obj_detonador.yy",},},
     {"id":{"name":"Obj_explosao","path":"objects/Obj_explosao/Obj_explosao.yy",},},
     {"id":{"name":"Obj_ferro_quebrado","path":"objects/Obj_ferro_quebrado/Obj_ferro_quebrado.yy",},},
     {"id":{"name":"Obj_gamemaneger","path":"objects/Obj_gamemaneger/Obj_gamemaneger.yy",},},

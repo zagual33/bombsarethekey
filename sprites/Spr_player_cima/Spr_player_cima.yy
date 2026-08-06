@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
   "%Name":"Spr_player_cima",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":43,
   "bbox_left":21,
   "bbox_right":39,
-  "bbox_top":11,
+  "bbox_top":34,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,

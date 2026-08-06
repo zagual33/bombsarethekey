@@ -1,0 +1,1 @@
+detonar = 0

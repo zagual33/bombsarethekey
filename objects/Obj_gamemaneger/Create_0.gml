@@ -37,6 +37,19 @@ function explodir(bomba)//quando a bomba explode
 			
 }
 
+function explodir_detonador(bomba)//quando a bomba explode
+{
+		//gerar instancia explosao
+		
+			
+		
+				
+			instance_create_layer(bomba.x,bomba.y,"instances_camada_2",Obj_explosao)
+			//instance_destroy(bomba)
+			//velocidade do frame
+			bomba.image_speed = 0
+			
+}
 
 function explosao()
 {
