@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_cutcene_teste",
+  "%Name":"Obj_trancicao_fases",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_cutcene_teste",
+  "name":"Obj_trancicao_fases",
   "overriddenProperties":[],
   "parent":{
-    "name":"Cutscenes",
-    "path":"folders/objects/Cutscenes.yy",
+    "name":"jogo",
+    "path":"folders/objects/jogo.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_trancicao",
+    "path":"sprites/Spr_trancicao/Spr_trancicao.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

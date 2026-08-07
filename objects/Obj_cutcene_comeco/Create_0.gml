@@ -13,3 +13,4 @@ camera_w = camera_get_view_width(cam);
 
 x = centro_camera_x;
 y = centro_camera_y;
+ir_tutorial = 0

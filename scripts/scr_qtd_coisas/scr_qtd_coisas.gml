@@ -19,8 +19,10 @@ global.qtd_malaquita = 0
 global.preco_malaquita = 75
 
 
+global.ir_fase1 = 0
 
-global.money = 1000
+
+global.money = 10000
 
 //valor guardado aqui para quando mudar a room n reiniciar
 global.explosao_forca = 2.5
