@@ -122,7 +122,7 @@
     {"id":{"name":"Spr_interagir","path":"sprites/Spr_interagir/Spr_interagir.yy",},},
     {"id":{"name":"Spr_malaquita_drop","path":"sprites/Spr_malaquita_drop/Spr_malaquita_drop.yy",},},
     {"id":{"name":"Spr_malaquita","path":"sprites/Spr_malaquita/Spr_malaquita.yy",},},
-    {"id":{"name":"Spr_megabomba","path":"sprites/Spr_megabomba/Spr_megabomba.yy",},},
+    {"id":{"name":"Spr_megabomba_compra","path":"sprites/Spr_megabomba_compra/Spr_megabomba_compra.yy",},},
     {"id":{"name":"spr_minerio_explodido","path":"sprites/spr_minerio_explodido/spr_minerio_explodido.yy",},},
     {"id":{"name":"Spr_next_fase","path":"sprites/Spr_next_fase/Spr_next_fase.yy",},},
     {"id":{"name":"spr_ouro_azul","path":"sprites/spr_ouro_azul/spr_ouro_azul.yy",},},

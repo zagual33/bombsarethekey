@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_megabomba",
-    "path":"sprites/Spr_megabomba/Spr_megabomba.yy",
+    "name":"Spr_megabomba_compra",
+    "path":"sprites/Spr_megabomba_compra/Spr_megabomba_compra.yy",
   },
   "spriteMaskId":null,
   "visible":true,
