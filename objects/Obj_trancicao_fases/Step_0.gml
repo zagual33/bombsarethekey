@@ -40,3 +40,13 @@ if (global.ir_fase1 == 4)
 
 	
 }
+if (global.ir_fase1 == 5) //room da cutcene do final ruim
+{
+ image_alpha += 0.02
+ if (image_alpha == 1)
+	{
+	room_goto(Rm_cene_final_T)	
+	}
+
+	
+}

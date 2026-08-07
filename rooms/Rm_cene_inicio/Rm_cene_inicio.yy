@@ -1,13 +1,13 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Rm_cene",
+  "%Name":"Rm_cene_inicio",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_4AA31A7A","path":"rooms/Rm_cene/Rm_cene.yy",},
-    {"name":"inst_D944D54","path":"rooms/Rm_cene/Rm_cene.yy",},
+    {"name":"inst_4AA31A7A","path":"rooms/Rm_cene_inicio/Rm_cene_inicio.yy",},
+    {"name":"inst_D944D54","path":"rooms/Rm_cene_inicio/Rm_cene_inicio.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -17,7 +17,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Rm_cene",
+  "name":"Rm_cene_inicio",
   "parent":{
     "name":"rooms",
     "path":"folders/rooms.yy",
