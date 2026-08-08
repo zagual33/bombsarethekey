@@ -52,6 +52,7 @@
   },
   "name":"bombsarethekey",
   "resources":[
+    {"id":{"name":"Fnd_hud_maior","path":"fonts/Fnd_hud_maior/Fnd_hud_maior.yy",},},
     {"id":{"name":"Fnd_hud","path":"fonts/Fnd_hud/Fnd_hud.yy",},},
     {"id":{"name":"hud_qtd_bomba","path":"objects/hud_qtd_bomba/hud_qtd_bomba.yy",},},
     {"id":{"name":"hud_qtd_cobre","path":"objects/hud_qtd_cobre/hud_qtd_cobre.yy",},},
