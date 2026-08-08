@@ -2,7 +2,7 @@ function scr_qtd_coisas(){
 
 }
 
-global.qtd_bomba = 100
+global.qtd_bomba = 15
 
 
 //miberios e precso
@@ -22,7 +22,7 @@ global.preco_malaquita = 50
 global.ir_fase1 = 0
 
 
-global.money = 100000
+global.money = 
 
 //valor guardado aqui para quando mudar a room n reiniciar
 global.explosao_forca = 1.5
