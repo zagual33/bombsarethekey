@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_camera_area",
+  "%Name":"Obj_placa_fase1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_camera_area",
+  "name":"Obj_placa_fase1",
   "overriddenProperties":[],
   "parent":{
-    "name":"jogo",
-    "path":"folders/objects/jogo.yy",
+    "name":"fase 1",
+    "path":"folders/objects/placas/fase 1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_camera_area",
-    "path":"sprites/Spr_camera_area/Spr_camera_area.yy",
+    "name":"Spr_placa_tutorial",
+    "path":"sprites/Spr_placa_tutorial/Spr_placa_tutorial.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
