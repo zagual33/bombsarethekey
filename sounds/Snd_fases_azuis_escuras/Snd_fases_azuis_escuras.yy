@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_fases_azuis_escuras",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":128.17915,
+  "exportDir":"",
+  "name":"Snd_fases_azuis_escuras",
+  "parent":{
+    "name":"musicas",
+    "path":"folders/sons e musicas/musicas.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_fases_azuis_escuras.ogg",
+  "volume":1.0,
+}

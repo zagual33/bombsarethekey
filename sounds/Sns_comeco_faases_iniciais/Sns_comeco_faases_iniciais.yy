@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Sns_comeco_faases_iniciais",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":106.676735,
+  "exportDir":"",
+  "name":"Sns_comeco_faases_iniciais",
+  "parent":{
+    "name":"musicas",
+    "path":"folders/sons e musicas/musicas.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sns_comeco_faases_iniciais.wav",
+  "volume":1.0,
+}

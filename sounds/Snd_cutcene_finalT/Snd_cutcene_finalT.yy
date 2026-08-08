@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_cutcene_finalT",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":30.656258,
+  "exportDir":"",
+  "name":"Snd_cutcene_finalT",
+  "parent":{
+    "name":"musicas",
+    "path":"folders/sons e musicas/musicas.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_cutcene_finalT.ogg",
+  "volume":1.0,
+}

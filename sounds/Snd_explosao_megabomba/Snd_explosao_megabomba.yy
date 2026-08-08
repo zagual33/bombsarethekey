@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_explosao_megabomba",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.775034,
+  "exportDir":"",
+  "name":"Snd_explosao_megabomba",
+  "parent":{
+    "name":"sons explosoes",
+    "path":"folders/sons e musicas/sons explosoes.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_explosao_megabomba.wav",
+  "volume":1.0,
+}
