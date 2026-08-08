@@ -20,6 +20,7 @@ var centro_camera_y = camera_y + camera_h / 2;
 x = centro_camera_x;
 y = centro_camera_y;
 */
+/*
 var dir_x  = 0;
 var dir_y = 0;
 
@@ -58,3 +59,35 @@ image_index = 0
 
 movex = lerp(movex,dir_x * velmax, 0.2)
 movey = lerp(movey,dir_y * velmax, 0.2)
+
+*/
+//////////
+
+
+var dir_x = obj_player.x - x;
+var dir_y = obj_player.y - y;
+
+
+//dando a distancia  dessa diecao
+var dist = point_distance(x,y,obj_player.x, obj_player.y);
+
+
+//normalizando a distancia
+var tam = point_distance(0,0, dir_x,dir_y)
+
+if (tam > 0)
+{
+	dir_x /= tam;
+	dir_y /= tam;
+}
+
+
+		//fazneod se  mover
+		x += dir_x*vel;
+		y += dir_y*vel;
+		
+
+
+
+
+

@@ -8,7 +8,7 @@ image_speed = 0
 //ajustando tamanho
 image_xscale = 1
 image_yscale = 1
-
+vel = 5
 velmax = obj_player.velmax
 movex = obj_player.movex
 movey = obj_player.movey
