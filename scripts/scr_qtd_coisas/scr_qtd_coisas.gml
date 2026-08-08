@@ -7,26 +7,26 @@ global.qtd_bomba = 100
 
 //miberios e precso
 global.qtd_cobre = 0
-global.preco_cobre = 20
+global.preco_cobre = 10
 
 global.qtd_ferro = 0
-global.preco_ferro = 35
+global.preco_ferro = 20
 
 global.qtd_ouro = 0
-global.preco_ouro = 50
+global.preco_ouro = 35
 
 global.qtd_malaquita = 0
-global.preco_malaquita = 75
+global.preco_malaquita = 50
 
 
 global.ir_fase1 = 0
 
 
-global.money = 10000
+global.money = 100000
 
 //valor guardado aqui para quando mudar a room n reiniciar
-global.explosao_forca = 2.5
-global.explosao_forca_preco = 100
+global.explosao_forca = 1.5
+global.explosao_forca_preco = 500
 
 //verificacao se megabomba foi comprada
 global.megabomba_buy = 0

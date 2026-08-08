@@ -5,8 +5,8 @@ y = room_height/2
 image_alpha = 0.5
 image_speed = 0
 //ajustando tamanho
-image_xscale = 2
-image_yscale = 2
+image_xscale = 1
+image_yscale = 1
 cam = view_camera[0];
 
 var camera_x = camera_get_view_x(cam);

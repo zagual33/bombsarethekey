@@ -6,3 +6,5 @@ movex = 0
 movey = 0
 
 int = 0
+
+camera_ampliada = false;
