@@ -35,7 +35,9 @@
     {"$GMFolder":"","%Name":"Tilesets","folderPath":"folders/sprites/Tilesets.yy","name":"Tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"TileSets","folderPath":"folders/TileSets.yy","name":"TileSets","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.gm_filter_screenshake-1.0.0","name":"io.gamemaker.gm_filter_screenshake-1.0.0","path":"io.gamemaker.gm_filter_screenshake-1.0.0.yyp",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -83,6 +85,7 @@
     {"id":{"name":"Obj_placa_tutorial5","path":"objects/Obj_placa_tutorial5/Obj_placa_tutorial5.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Obj_polvora_upgrade","path":"objects/Obj_polvora_upgrade/Obj_polvora_upgrade.yy",},},
+    {"id":{"name":"obj_shake","path":"objects/obj_shake/obj_shake.yy",},},
     {"id":{"name":"Obj_solido","path":"objects/Obj_solido/Obj_solido.yy",},},
     {"id":{"name":"Obj_trancicao_cene","path":"objects/Obj_trancicao_cene/Obj_trancicao_cene.yy",},},
     {"id":{"name":"Obj_trancicao_fases","path":"objects/Obj_trancicao_fases/Obj_trancicao_fases.yy",},},

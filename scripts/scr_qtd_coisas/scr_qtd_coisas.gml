@@ -32,3 +32,5 @@ global.explosao_forca_preco = 100
 global.megabomba_buy = 0
 //nao foi como padrao
 //no inicio de cada fase volta a ser false
+
+global.shake = 0
