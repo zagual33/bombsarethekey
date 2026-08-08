@@ -1,0 +1,1 @@
+audio_play_sound(Snd_comeco_faases_iniciais,1,1)
