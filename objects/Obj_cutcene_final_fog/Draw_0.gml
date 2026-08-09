@@ -57,6 +57,7 @@ if (cena == 3)
 	1 //transparencia
 	)
 	ir_credit = 1
+	room_goto(Rm_Credits)
 }
 /*
 if (keyboard_check(ord("E")))
