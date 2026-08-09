@@ -46,9 +46,9 @@ if (cena ==2)
 
 if (cena == 3)
 {
-	ir_credit = 1
+	room_goto(Rm_Credits)
 		draw_sprite_ext(
-	Spr_cene_comeco_3,
+	Spr_cene_finalT_3,
 	0, //image_idex
 	x, //posicao x
 	y, //posicao y
