@@ -1,7 +1,7 @@
 image_xscale = 2
 image_yscale = 2
 image_speed = 0
-velmax = 15
+velmax = 5
 movex = 0
 movey = 0
 
