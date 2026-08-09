@@ -9,7 +9,7 @@ if (place_meeting(x,y,obj_player))
 	if (global.megabomba_buy == 1)
 	{
 	
-		instance_create_layer(x,y,"Instances_camada_2",Obj_megabomba_compra)	
+		instance_create_layer(x,y,"Instances_camada_2",Obj_megabomba)	
 		alarm[0] = 60 //tempo pra esplodir a bomba
 		//animacao de explodir
 		
@@ -23,6 +23,7 @@ if (place_meeting(x,y,obj_player))
 			//tocar transicao
 			global.ir_fase1 ++
 			aberto = 0
+			global.megabomba_buy = false
 		//room_goto_next()
 			instance_create_layer(x,y,"transicao",Obj_trancicao_fases)
 			}

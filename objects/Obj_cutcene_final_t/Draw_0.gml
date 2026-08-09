@@ -46,7 +46,7 @@ if (cena ==2)
 
 if (cena == 3)
 {
-	ir_tutorial = 1
+	ir_credit = 1
 		draw_sprite_ext(
 	Spr_cene_comeco_3,
 	0, //image_idex

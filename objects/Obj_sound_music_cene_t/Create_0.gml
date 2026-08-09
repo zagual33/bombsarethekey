@@ -1,0 +1,3 @@
+
+audio_pause_sound(Snd_fases_azuis_escuras)
+audio_play_sound(Snd_cutcene_finalT,1,1)

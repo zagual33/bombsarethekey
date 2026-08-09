@@ -6,7 +6,7 @@ instance_create_layer(x-150,y-25,"hud",Obj_interacao)
 	{
 		if(global.money >= preco)
 		{
-		room_goto(Rm_cene_final_fog)	
+		 instance_create_layer(x,y,"transicao",Obj_trancicao_cene_toupeira)	
 		}
 		
 	}

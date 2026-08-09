@@ -4,7 +4,7 @@ function scr_qtd_coisas(){
 
 //valor guardado aqui para quando mudar a room n reiniciar
 global.explosao_forca = 1.5
-global.explosao_forca_preco = 500
+global.explosao_forca_preco = 300
 
 global.qtd_bomba = 15
 
@@ -26,7 +26,7 @@ global.preco_malaquita = 50
 global.ir_fase1 = 0
 
 
-global.money = 100
+global.money = 10000
 
 
 

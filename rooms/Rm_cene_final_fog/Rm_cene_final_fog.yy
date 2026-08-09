@@ -6,16 +6,14 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_4AA31A7A1","path":"rooms/Rm_cene_final_fog/Rm_cene_final_fog.yy",},
-    {"name":"inst_D944D54_1","path":"rooms/Rm_cene_final_fog/Rm_cene_final_fog.yy",},
-    {"name":"inst_7FB48742_1","path":"rooms/Rm_cene_final_fog/Rm_cene_final_fog.yy",},
+    {"name":"inst_76E9B270","path":"rooms/Rm_cene_final_fog/Rm_cene_final_fog.yy",},
+    {"name":"inst_219CD661","path":"rooms/Rm_cene_final_fog/Rm_cene_final_fog.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_4AA31A7A1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4AA31A7A1","objectId":{"name":"Obj_cutcene_comeco","path":"objects/Obj_cutcene_comeco/Obj_cutcene_comeco.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":960.0,"y":320.0,},
-        {"$GMRInstance":"v4","%Name":"inst_D944D54_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D944D54_1","objectId":{"name":"Obj_trancicao_cene","path":"objects/Obj_trancicao_cene/Obj_trancicao_cene.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":22.0,"scaleY":14.0,"x":640.0,"y":384.0,},
-        {"$GMRInstance":"v4","%Name":"inst_7FB48742_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7FB48742_1","objectId":{"name":"Obj_sound_music","path":"objects/Obj_sound_music/Obj_sound_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-544.0,"y":-128.0,},
+        {"$GMRInstance":"v4","%Name":"inst_76E9B270","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_76E9B270","objectId":{"name":"Obj_cutcene_final_fog","path":"objects/Obj_cutcene_final_fog/Obj_cutcene_final_fog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":352.0,},
+        {"$GMRInstance":"v4","%Name":"inst_219CD661","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_219CD661","objectId":{"name":"Obj_sound_music_cene_fog","path":"objects/Obj_sound_music_cene_fog/Obj_sound_music_cene_fog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":384.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
