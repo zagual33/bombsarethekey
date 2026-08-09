@@ -26,7 +26,7 @@ global.preco_malaquita = 50
 global.ir_fase1 = 0
 
 
-global.money = 0
+global.money = 10000
 
 
 

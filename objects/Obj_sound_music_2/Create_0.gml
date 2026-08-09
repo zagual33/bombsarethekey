@@ -1,0 +1,3 @@
+
+audio_pause_sound(Snd_comeco_faases_iniciais)
+audio_play_sound(Snd_fases_azuis_escuras,1,1)

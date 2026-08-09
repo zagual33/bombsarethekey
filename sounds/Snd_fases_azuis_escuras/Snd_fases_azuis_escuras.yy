@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"Snd_fases_azuis_escuras.ogg",
-  "volume":1.0,
+  "volume":0.19,
 }
