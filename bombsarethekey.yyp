@@ -205,9 +205,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Rm_fase_3","path":"rooms/Rm_fase_3/Rm_fase_3.yy",},},
     {"roomId":{"name":"Rm_fase_5","path":"rooms/Rm_fase_5/Rm_fase_5.yy",},},
     {"roomId":{"name":"Rm_cene_inicio","path":"rooms/Rm_cene_inicio/Rm_cene_inicio.yy",},},
-    {"roomId":{"name":"Rm_fase_3","path":"rooms/Rm_fase_3/Rm_fase_3.yy",},},
     {"roomId":{"name":"Rm_fase_1","path":"rooms/Rm_fase_1/Rm_fase_1.yy",},},
     {"roomId":{"name":"Rm_tutorial","path":"rooms/Rm_tutorial/Rm_tutorial.yy",},},
     {"roomId":{"name":"Rm_fase_2","path":"rooms/Rm_fase_2/Rm_fase_2.yy",},},
