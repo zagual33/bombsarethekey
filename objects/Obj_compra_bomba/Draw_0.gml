@@ -1,5 +1,5 @@
 draw_self()
-draw_set_font(Fnd_hud)
+draw_set_font(Fnd_hud__maior)
 
 draw_set_colour(c_white)
 

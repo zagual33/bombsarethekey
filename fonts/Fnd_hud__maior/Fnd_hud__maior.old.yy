@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Fnd_hud_maior",
+  "%Name":"Fnd_hud__maior",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":15,
@@ -118,7 +118,7 @@
   "last":0,
   "lineHeight":18,
   "maintainGms1Font":false,
-  "name":"Fnd_hud_maior",
+  "name":"Fnd_hud__maior",
   "parent":{
     "name":"fontes",
     "path":"folders/fontes.yy",
