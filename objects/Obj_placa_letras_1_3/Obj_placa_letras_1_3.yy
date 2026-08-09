@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_placa_letras1",
+  "%Name":"Obj_placa_letras_1_3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,11 +8,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_placa_letras1",
+  "name":"Obj_placa_letras_1_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"tutorial",
-    "path":"folders/objects/placas/tutorial.yy",
+    "name":"fase 1",
+    "path":"folders/objects/placas/fase 1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,8 +29,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"tex_tu_1","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"SPACE posiciona as bombas, a area ao redor demarca seu raio de explosao. AWSD para se mover por ai, E para interagir e ESC para sair","varType":2,},
-    {"$GMObjectProperty":"v2","%Name":"tex_tu_2","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"A explosao de uma bomba, ativa outra bomba, faca um grande cabuum e seja feliz!!","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"tex_fas1","filters":[],"listItems":[],"multiselect":false,"name":"tex_fas1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"NAO posicione bombas do lado de fora seu arruaceiro","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"tex_fas1_2","filters":[],"listItems":[],"multiselect":false,"name":"tex_fas1_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"que visao magnifica !! EXPLODA","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"text_fas1_3","filters":[],"listItems":[],"multiselect":false,"name":"text_fas1_3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Uma bomba grande o suficiente pode explodir uma pedra grande !","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

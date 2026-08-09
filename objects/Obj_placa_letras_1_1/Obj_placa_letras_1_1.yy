@@ -29,7 +29,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"tex_fas1","filters":[],"listItems":[],"multiselect":false,"name":"tex_fas1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"NAO posicione bombas do lado de fora seu arruaceiro","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"tex_fas1","filters":[],"listItems":[],"multiselect":false,"name":"tex_fas1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Gerencie bem suas bombas","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"tex_fas1_2","filters":[],"listItems":[],"multiselect":false,"name":"tex_fas1_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"que visao magnifica !! EXPLODA","varType":2,},
   ],
   "resourceType":"GMObject",

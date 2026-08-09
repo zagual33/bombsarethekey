@@ -29,7 +29,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"tex_tu_1","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"SPACE posiciona as bombas, a area ao redor demarca seu raio de explosao","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"tex_tu_1","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Segure SPACE para pocisonar a bomba, solte para coloca-la  a area ao redor demarca seu raio de explosao","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"tex_tu_2","filters":[],"listItems":[],"multiselect":false,"name":"tex_tu_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"A explosao de uma bomba, ativa outra bomba, faca um grande cabuum e seja feliz!!","varType":2,},
   ],
   "resourceType":"GMObject",
