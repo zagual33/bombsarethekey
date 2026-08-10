@@ -11,22 +11,22 @@ global.qtd_bomba = 15
 
 //miberios e precso
 global.qtd_cobre = 0
-global.preco_cobre = 10
+global.preco_cobre = 15
 
 global.qtd_ferro = 0
-global.preco_ferro = 20
+global.preco_ferro = 25
 
 global.qtd_ouro = 0
-global.preco_ouro = 35
+global.preco_ouro = 40
 
 global.qtd_malaquita = 0
-global.preco_malaquita = 50
+global.preco_malaquita = 55
 
 
 global.ir_fase1 = 0
 
 
-global.money = 10000
+global.money = 100
 
 
 
